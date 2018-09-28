@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "no-unused-expression": false,
+    "no-duplicate-varible": true,
+    "curly": true,
+    "class-name": true,
+    "triple-equals": true
+  }
+}
